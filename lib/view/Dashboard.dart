@@ -1152,8 +1152,6 @@ setState(()  {
 
 
 
-
-
     /*  Stylefile.showmessageforvalidationtrue(
           context,
           "Master data downloaded successfully.");*/
